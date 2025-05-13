@@ -1,0 +1,10 @@
+Type=X-GNOME-Metatheme
+[Desktop Entry]
+Name=xp-pickle
+Comment=xmlp pickle theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=xp-pickle
+MetacityTheme=xp-pickle
+ButtonLayout=close,minimize,maximize:menu

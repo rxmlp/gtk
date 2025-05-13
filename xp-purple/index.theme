@@ -1,0 +1,10 @@
+Type=X-GNOME-Metatheme
+[Desktop Entry]
+Name=xp-purple
+Comment=xmlp purple theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=xp-purple
+MetacityTheme=xp-purple
+ButtonLayout=close,minimize,maximize:menu
