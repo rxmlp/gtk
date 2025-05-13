@@ -1,0 +1,10 @@
+Type=X-GNOME-Metatheme
+[Desktop Entry]
+Name=xp-oragne
+Comment=xmlp orange theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=xp-oragne
+MetacityTheme=xp-oragne
+ButtonLayout=close,minimize,maximize:menu
