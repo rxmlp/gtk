@@ -1,0 +1,10 @@
+Type=X-GNOME-Metatheme
+[Desktop Entry]
+Name=xp-blurpal
+Comment=xmlp blurpal theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=xp-blurpal
+MetacityTheme=xp-blurpal
+ButtonLayout=close,minimize,maximize:menu
